@@ -162,9 +162,6 @@ struct SettingsView: View {
                         VStack(alignment: .leading, spacing: 4) {
                             Text("Unlock Pro Features")
                                 .font(.headline)
-                            Text("Lifetime access for just €4.99")
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
                         }
                         Spacer()
                         Image(systemName: "crown.fill")
